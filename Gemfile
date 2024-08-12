@@ -21,6 +21,8 @@ gem "devise"
 
 gem "letter_opener"
 
+gem "sendgrid-ruby"
+
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
 
